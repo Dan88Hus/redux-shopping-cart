@@ -1,7 +1,4 @@
-// feature-1
 import React from "react";
-// import data from './data,json';
-
 import store from "./store";
 import { Provider } from "react-redux";
 import { BrowserRouter, Route, Link } from "react-router-dom";
